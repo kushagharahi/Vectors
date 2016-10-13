@@ -1,5 +1,5 @@
 # Vectors
-A basic vectors library written in Java. 
+A basic 2D vectors library written in Java. 
 
 
 ##Contributing 
